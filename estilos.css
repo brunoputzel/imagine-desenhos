@@ -1,0 +1,80 @@
+body{
+    background: rgb(132, 97, 167);
+    font-family: sans-serif;
+    color: rgb(94, 25, 163);
+    }
+
+nav{
+    background-color: rgb(255, 255, 255);
+    font-family: sans-serif;
+}
+
+
+#text_navbar{
+    color: rgb(94, 25, 163);
+    font-weight: bold
+}
+
+#logo {
+    max-width: 80%;
+    min-width: 20%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h1{
+    color: rgb(94, 25, 163);
+    text-align: justify
+}
+h2 {
+    color: white;
+}
+
+hr {
+    color: blue;
+    height: 3px;
+    width: 98%;
+}
+
+b{
+    text-align: center;
+}
+li {
+    text-align: left;
+}
+h5{
+    text-align: center;
+}
+
+#cards{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+#button{
+    background-color: rgb(68, 14, 123);
+    color: blanchedalmond;
+}
+
+#contato{
+
+    text-align: center;
+    color: white;
+    width: 100%;
+    flex-direction: column
+}
+
+#serviços {
+    background-color: rgb(253, 253, 253);
+    border-radius: 10px 10px;
+    text-align: center;
+    margin-bottom: 12px;
+    flex-direction: column
+}
+
+#icone {
+    max-width: 15%;
+    text-align: center;
+    flex-direction: column
+}
